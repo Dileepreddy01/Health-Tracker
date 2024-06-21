@@ -1,0 +1,1 @@
+HealthTracker is a comprehensive health tracking application designed to help users monitor and manage their health metrics efficiently. This application allows users to log various health-related data, track progress over time, and gain insights into their overall health.
